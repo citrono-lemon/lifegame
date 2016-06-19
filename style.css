@@ -1,0 +1,28 @@
+body {
+  background-color: #FFF;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 1px 0px 2px #aaa;
+}
+
+canvas {
+  border: 1px solid #777;
+  background-color: #FFF;
+  display: block;
+  margin: auto;
+}
+
+button {
+  border: 1px solid #777;
+  background-color: #f5f5ff;
+  font-size: 15px;
+  box-shadow: 1px 1px 1px #ddd;
+  text-shadow: 0px 1px 1px #aad;
+}
+
+#buttons {
+    text-align: center;
+    padding: 5px;
+}
