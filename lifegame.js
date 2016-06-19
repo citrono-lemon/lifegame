@@ -1,5 +1,3 @@
-// Javascriptのオブジェクト指向がいまいちわからないので適当に
-
 var speed = 66;
 var map;
 var cell;
