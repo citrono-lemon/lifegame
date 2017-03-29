@@ -1,4 +1,4 @@
 #ライフゲーム
 
 ただのライフゲーム  
-<http://plantist.github.io/lifegame>
+<http://lemonkobo.github.io/lifegame>
