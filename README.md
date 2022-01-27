@@ -1,4 +1,4 @@
 #ライフゲーム
 
 ただのライフゲーム  
-<http://lemonkobo.github.io/lifegame>
+<http://citrono-lemon.github.io/lifegame>
